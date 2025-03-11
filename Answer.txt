@@ -1,0 +1,6 @@
+1. Why did you choose this dataset?
+*This dataset is really interesting, and I want to know if having more smart people leads to a smarter city.
+2. What is your conclusion upon conducting linear regression on this dataset?
+*The model predicts the SmartCity_Index fairly well, but the results show that some factors are still missing, and the predictions could be more accurate if we added more features or tried a different approach.
+3. How relevant is linear regression today?
+Linear regression is still useful for showing relationships, but more complex models work better for big data or complicated patterns.
